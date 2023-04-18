@@ -1,0 +1,15 @@
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Нахождение Макса/bin/Debug/net6.0/Нахождение Макса
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Нахождение Макса/bin/Debug/net6.0/Нахождение Макса.deps.json
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Нахождение Макса/bin/Debug/net6.0/Нахождение Макса.runtimeconfig.json
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Нахождение Макса/bin/Debug/net6.0/Нахождение Макса.dll
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Нахождение Макса/bin/Debug/net6.0/Нахождение Макса.pdb
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Нахождение Макса/obj/Debug/net6.0/Нахождение Макса.csproj.AssemblyReference.cache
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Нахождение Макса/obj/Debug/net6.0/Нахождение Макса.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Нахождение Макса/obj/Debug/net6.0/Нахождение Макса.AssemblyInfoInputs.cache
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Нахождение Макса/obj/Debug/net6.0/Нахождение Макса.AssemblyInfo.cs
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Нахождение Макса/obj/Debug/net6.0/Нахождение Макса.csproj.CoreCompileInputs.cache
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Нахождение Макса/obj/Debug/net6.0/Нахождение Макса.dll
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Нахождение Макса/obj/Debug/net6.0/refint/Нахождение Макса.dll
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Нахождение Макса/obj/Debug/net6.0/Нахождение Макса.pdb
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Нахождение Макса/obj/Debug/net6.0/Нахождение Макса.genruntimeconfig.cache
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Нахождение Макса/obj/Debug/net6.0/ref/Нахождение Макса.dll
