@@ -1,0 +1,15 @@
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Приветствие/obj/Debug/net6.0/Приветствие.csproj.AssemblyReference.cache
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Приветствие/obj/Debug/net6.0/Приветствие.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Приветствие/obj/Debug/net6.0/Приветствие.AssemblyInfoInputs.cache
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Приветствие/obj/Debug/net6.0/Приветствие.AssemblyInfo.cs
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Приветствие/obj/Debug/net6.0/Приветствие.csproj.CoreCompileInputs.cache
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Приветствие/bin/Debug/net6.0/Приветствие
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Приветствие/bin/Debug/net6.0/Приветствие.deps.json
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Приветствие/bin/Debug/net6.0/Приветствие.runtimeconfig.json
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Приветствие/bin/Debug/net6.0/Приветствие.dll
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Приветствие/bin/Debug/net6.0/Приветствие.pdb
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Приветствие/obj/Debug/net6.0/Приветствие.dll
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Приветствие/obj/Debug/net6.0/refint/Приветствие.dll
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Приветствие/obj/Debug/net6.0/Приветствие.pdb
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Приветствие/obj/Debug/net6.0/Приветствие.genruntimeconfig.cache
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Приветствие/obj/Debug/net6.0/ref/Приветствие.dll
