@@ -1,0 +1,15 @@
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Цикл1/bin/Debug/net6.0/Цикл1
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Цикл1/bin/Debug/net6.0/Цикл1.deps.json
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Цикл1/bin/Debug/net6.0/Цикл1.runtimeconfig.json
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Цикл1/bin/Debug/net6.0/Цикл1.dll
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Цикл1/bin/Debug/net6.0/Цикл1.pdb
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Цикл1/obj/Debug/net6.0/Цикл1.csproj.AssemblyReference.cache
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Цикл1/obj/Debug/net6.0/Цикл1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Цикл1/obj/Debug/net6.0/Цикл1.AssemblyInfoInputs.cache
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Цикл1/obj/Debug/net6.0/Цикл1.AssemblyInfo.cs
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Цикл1/obj/Debug/net6.0/Цикл1.csproj.CoreCompileInputs.cache
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Цикл1/obj/Debug/net6.0/Цикл1.dll
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Цикл1/obj/Debug/net6.0/refint/Цикл1.dll
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Цикл1/obj/Debug/net6.0/Цикл1.pdb
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Цикл1/obj/Debug/net6.0/Цикл1.genruntimeconfig.cache
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Цикл1/obj/Debug/net6.0/ref/Цикл1.dll
