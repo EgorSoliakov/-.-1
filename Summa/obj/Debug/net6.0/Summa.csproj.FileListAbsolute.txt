@@ -1,0 +1,15 @@
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Summa/bin/Debug/net6.0/Summa
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Summa/bin/Debug/net6.0/Summa.deps.json
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Summa/bin/Debug/net6.0/Summa.runtimeconfig.json
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Summa/bin/Debug/net6.0/Summa.dll
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Summa/bin/Debug/net6.0/Summa.pdb
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Summa/obj/Debug/net6.0/Summa.csproj.AssemblyReference.cache
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Summa/obj/Debug/net6.0/Summa.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Summa/obj/Debug/net6.0/Summa.AssemblyInfoInputs.cache
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Summa/obj/Debug/net6.0/Summa.AssemblyInfo.cs
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Summa/obj/Debug/net6.0/Summa.csproj.CoreCompileInputs.cache
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Summa/obj/Debug/net6.0/Summa.dll
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Summa/obj/Debug/net6.0/refint/Summa.dll
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Summa/obj/Debug/net6.0/Summa.pdb
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Summa/obj/Debug/net6.0/Summa.genruntimeconfig.cache
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Лекция1/Summa/obj/Debug/net6.0/ref/Summa.dll
